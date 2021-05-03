@@ -69,7 +69,7 @@ const About = () => {
                  <a
                         target="_blank"                   
                         className="cta-btn cta-btn--resume"
-                        href="https://www.guvi.in/aniketdevarkar98"
+                        href="https://drive.google.com/file/d/1I1pKNZAKJ0UJg_ZGkgSuJkXOy_2wUvRN/view?usp=sharing"
                         >
                          Resume
 
