@@ -48,6 +48,33 @@ const About = () => {
                 <p className="about-wrapper__info-text">
                   {paragraphThree || 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.'}
                 </p>
+                
+                 <div className="buttons">
+                  
+                 <a
+                        target="_blank"                   
+                        className="cta-btn cta-btn--resume"
+                        href="https://www.hackerrank.com/aniket_2005134"
+                        >
+                           HackerRank
+                        </a>
+                 <a
+                        target="_blank"                   
+                        className="cta-btn cta-btn--resume"
+                        href="https://www.guvi.in/aniketdevarkar98"
+                        >
+                         Guvi's Codekata
+
+                        </a>
+                 <a
+                        target="_blank"                   
+                        className="cta-btn cta-btn--resume"
+                        href="https://www.guvi.in/aniketdevarkar98"
+                        >
+                         Resume
+
+                        </a>
+                        </div>
                 {resume && (
                   <span className="d-flex mt-3">
                     <a

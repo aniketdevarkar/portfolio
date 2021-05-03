@@ -83,3 +83,11 @@
 .up i {
   color: #272727;
 }
+
+.buttons {
+  display: flex;
+}
+
+.buttons > a {
+  margin-right: 20px;
+}
