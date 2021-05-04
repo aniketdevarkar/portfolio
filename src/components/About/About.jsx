@@ -59,7 +59,7 @@ const About = () => {
                  <a
                         target="_blank"                   
                         className="cta-btn cta-btn--resume"
-                        href="https://docs.google.com/document/d/1HhIOcxSSxVB33_S4nLYcxauzBzfnzb9I1YfHfU_FLy8/edit"
+                        href="https://docs.google.com/document/d/1HhIOcxSSxVB33_S4nLYcxauzBzfnzb9I1YfHfU_FLy8/edit?usp=sharing"
                         >
                          Guvi's Codekata
 
@@ -67,7 +67,7 @@ const About = () => {
                  <a
                         target="_blank"                   
                         className="cta-btn cta-btn--resume"
-                        href="https://drive.google.com/file/d/1I1pKNZAKJ0UJg_ZGkgSuJkXOy_2wUvRN/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1In2WfJyWsNDex2tzTMAJ6__v7appW0Ey/view?usp=sharing"
                         >
                          Resume
 
