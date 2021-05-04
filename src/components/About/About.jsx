@@ -59,7 +59,7 @@ const About = () => {
                  <a
                         target="_blank"                   
                         className="cta-btn cta-btn--resume"
-                        href="https://www.guvi.in/aniketdevarkar98"
+                        href="https://docs.google.com/document/d/1HhIOcxSSxVB33_S4nLYcxauzBzfnzb9I1YfHfU_FLy8/edit"
                         >
                          Guvi's Codekata
 
