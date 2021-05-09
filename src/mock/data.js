@@ -22,7 +22,7 @@ export const aboutData = {
     'Hello, I am Aniket Devarkar. I have completed my bachelors in Electronics and Telecommunication in year 2020. I started programming in my third year with C as my first programming language followed by C++. Eventually, I started to enjoy coding and solved many problems on hackerrank.com.',
   paragraphTwo:
     "I have learned front end technologies like React js , Bootstrap , HTML , CSS and Dom manipulation. For back-end I have learned nodejs with express as framework and MongoDb and MySql in database. Addition to this all, I have solved 500+ problems on Guvi's platform Codekata.",
-  paragraphThree: "Link to Hacker Rank , Guvi's coekata and Resume.",
+  paragraphThree: "Link to Hacker Rank , Guvi's codekata and Resume.",
   // resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
