@@ -61,6 +61,17 @@ export const projectsData = [
     url: 'https://netflix-clone-f90e9.web.app/',
     repo: 'https://github.com/aniketdevarkar/Netflix-Clone-using-reactjs-frontend-.git', // if no repo, the button will not show up
   },
+   {
+    id: nanoid(),
+    img: 'driveClone.png',
+    title: 'Google Drive Clone',
+    info:
+      'It is google drive clone which stores files and folders which can be uploaded by the user after successful login.',
+    info2:
+      'It has features such as folder can contain other files and folders which can be created by the user also signup,login,forgot-password feauters are also enabled.',
+    url: 'https://google-drive-aniket.herokuapp.com/',
+    repo: 'https://github.com/aniketdevarkar/google-drive.git', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
